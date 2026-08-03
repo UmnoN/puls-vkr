@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+sqlalchemy
+streamlit
+psycopg2-binary   # нужен только для подключения к настоящему Postgres в проде
